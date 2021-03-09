@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yasser
 - 👀 I’m interested in Philosophy
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m curious and continously learning
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 To reach out: yasser.ouaftouh@philos-it.com
 
